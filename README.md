@@ -1,4 +1,4 @@
-# 🐍 Estudos sobre Python
+# 🐍 Repositório do curso de python
 
 Repositório dedicado ao meu aprendizado de **Python**, reunindo exercícios, anotações e práticas desenvolvidas ao longo dos meus estudos.
 
